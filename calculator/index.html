@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div class="calculator-wrapper">
+        <div class="display-wrapper">
+            <div class="equation-display" id="displayInput" ></div>
+            <div class="number-display" id="displayOutput" value=''></div>
+        </div>
+        <div class="button-wrapper">
+            <div class="number-buttons clear-buttons">
+                <button id="Delete">DEL</button>
+                <button id="allClear">AC</button>
+            </div>
+        </div>
+        <div class="button-wrapper">
+            <div class="number-buttons">
+                <button data-operation="sqrt">&#8730;</button>
+                <button data-operation="^">^</button>
+                <button data-number="7">7</button>
+                <button data-number="8">8</button>
+                <button data-number="9">9</button>
+                <button data-number="4">4</button>
+                <button data-number="5">5</button>
+                <button data-number="6">6</button>
+                <button data-number="1">1</button>
+                <button data-number="2">2</button>
+                <button data-number="3">3</button>
+                <button data-number="0">0</button>
+                <button data-number=".">.</button>
+            </div>
+            <div class="equation-buttons">
+                <button data-operation="/">/</button>
+                <button data-operation="*">*</button>
+                <button data-operation="+">+</button>
+                <button data-operation="-">-</button>
+                <button id="equals">=</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
