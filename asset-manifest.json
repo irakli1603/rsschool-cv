@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spirit/static/css/main.adc95103.chunk.css",
+    "main.js": "/spirit/static/js/main.e4e5eedd.chunk.js",
+    "main.js.map": "/spirit/static/js/main.e4e5eedd.chunk.js.map",
+    "runtime-main.js": "/spirit/static/js/runtime-main.438702e4.js",
+    "runtime-main.js.map": "/spirit/static/js/runtime-main.438702e4.js.map",
+    "static/js/2.eaf0a93b.chunk.js": "/spirit/static/js/2.eaf0a93b.chunk.js",
+    "static/js/2.eaf0a93b.chunk.js.map": "/spirit/static/js/2.eaf0a93b.chunk.js.map",
+    "static/js/3.26a3e80e.chunk.js": "/spirit/static/js/3.26a3e80e.chunk.js",
+    "static/js/3.26a3e80e.chunk.js.map": "/spirit/static/js/3.26a3e80e.chunk.js.map",
+    "index.html": "/spirit/index.html",
+    "static/css/main.adc95103.chunk.css.map": "/spirit/static/css/main.adc95103.chunk.css.map",
+    "static/js/2.eaf0a93b.chunk.js.LICENSE.txt": "/spirit/static/js/2.eaf0a93b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/spirit/static/media/Raleway-Regular.9ade142e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.438702e4.js",
+    "static/js/2.eaf0a93b.chunk.js",
+    "static/css/main.adc95103.chunk.css",
+    "static/js/main.e4e5eedd.chunk.js"
+  ]
+}
